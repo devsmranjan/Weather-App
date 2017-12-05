@@ -1,0 +1,30 @@
+body {
+            background-color: #345a86;
+        }
+        .container {
+            /* box-shadow: 1px 1px 5px #888; */
+            vertical-align: middle;
+            margin-top: 10vh;
+            margin-bottom: 25vh;
+            padding: 20px 10px 20px 10px;
+        }
+
+        .card-body {
+            font-family: Raleway;
+        }
+
+        .weather-part {
+            padding: 10px;
+        }
+
+        .card-footer {
+            background-color: white;
+        }
+
+        .btn {
+            border: 2px #eeeeee solid;
+            width: 150px;
+            background-color: #345a86;
+            color: #fff;
+            font-family: Raleway;
+        }
